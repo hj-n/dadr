@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/hj-n.github.io/dadr/static/css/main.d39998af.css",
+    "main.js": "/hj-n.github.io/dadr/static/js/main.f93d598a.js",
+    "static/js/453.1fa6e692.chunk.js": "/hj-n.github.io/dadr/static/js/453.1fa6e692.chunk.js",
+    "index.html": "/hj-n.github.io/dadr/index.html",
+    "main.d39998af.css.map": "/hj-n.github.io/dadr/static/css/main.d39998af.css.map",
+    "main.f93d598a.js.map": "/hj-n.github.io/dadr/static/js/main.f93d598a.js.map",
+    "453.1fa6e692.chunk.js.map": "/hj-n.github.io/dadr/static/js/453.1fa6e692.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d39998af.css",
+    "static/js/main.f93d598a.js"
+  ]
+}
