@@ -18,9 +18,9 @@ function App() {
             <p>¹Seoul National University, ²Yonsei University, ³Inria-Saclay and Université Paris-Saclay</p>
           </div>
           <div className="links">
-            <a href="#" className="paper-link">Paper PDF (TBA) </a>
+            <a href="./pdf/jeon25tvcg.pdf" className="paper-link">Paper PDF</a>
             <a href="https://github.com/hj-n/dataset-adaptive-dr" className="paper-link" target="_blank" rel="noopener noreferrer">GitHub Repository</a>
-            <a href="#" className="paper-link">Appendix (TBA)</a>
+            <a href="./pdf/jeon25tvcg_appendix.pdf" className="paper-link">Appendix</a>
           </div>
         </header>
 
