@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/hj-n.github.io/dadr/static/css/main.d39998af.css",
-    "main.js": "/hj-n.github.io/dadr/static/js/main.077ff3f3.js",
-    "static/js/453.1fa6e692.chunk.js": "/hj-n.github.io/dadr/static/js/453.1fa6e692.chunk.js",
-    "index.html": "/hj-n.github.io/dadr/index.html",
-    "main.d39998af.css.map": "/hj-n.github.io/dadr/static/css/main.d39998af.css.map",
-    "main.077ff3f3.js.map": "/hj-n.github.io/dadr/static/js/main.077ff3f3.js.map",
-    "453.1fa6e692.chunk.js.map": "/hj-n.github.io/dadr/static/js/453.1fa6e692.chunk.js.map"
+    "main.css": "/dadr/static/css/main.d39998af.css",
+    "main.js": "/dadr/static/js/main.3e85c846.js",
+    "static/js/453.1fa6e692.chunk.js": "/dadr/static/js/453.1fa6e692.chunk.js",
+    "index.html": "/dadr/index.html",
+    "main.d39998af.css.map": "/dadr/static/css/main.d39998af.css.map",
+    "main.3e85c846.js.map": "/dadr/static/js/main.3e85c846.js.map",
+    "453.1fa6e692.chunk.js.map": "/dadr/static/js/453.1fa6e692.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.d39998af.css",
-    "static/js/main.077ff3f3.js"
+    "static/js/main.3e85c846.js"
   ]
 }
